@@ -1,2 +1,2 @@
 # teste.de.repositorio 
- aprendendo 
+ aprendendo a usar git e github
